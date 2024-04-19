@@ -47,22 +47,17 @@ This project is a Java-based hotel reservation system that manages customer and 
 4. Follow the prompts to interact with the system.
 
 **Contributors:**
-- [Your Name]
+Fatima Alatsha
 
 **Dependencies:**
 - Java Development Kit (JDK)
 
-**License:**
-This project is licensed under the [insert license name here]. See the `LICENSE` file for details.
-
 **Notes:**
 - This project is developed for educational purposes.
-- For any questions or issues, please contact [your email address].
+- For any questions or issues, please contact falatsha@lakeheadu.ca.
 - Contributions are welcome. Please fork the repository and submit pull requests.
 
 **Acknowledgments:**
-Author: Fatima ALatsha 
-email: fatima@lakeheadu.ca
 this project was made for COMP 2477 (Object Oriented Programming) class
 Department of Computer Science / Faculty of Science and Environmental
 Studies
